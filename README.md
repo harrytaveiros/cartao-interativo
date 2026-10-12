@@ -26,15 +26,15 @@ Uma aplicação frontend desenvolvida para consolidar conceitos fundamentais do 
 Acesse a pasta do projeto:
 
 Bash
-cd cartao-interativo
+"cd cartao-interativo"
 Instale as dependências necessárias:
 
 Bash
-npm install
+"npm install"
 Inicie o servidor de desenvolvimento:
 
 Bash
-npm run dev
+"npm run dev"
 Abra o navegador no endereço indicado no terminal (geralmente http://localhost:5173).
 
 👨‍💻 Autor
