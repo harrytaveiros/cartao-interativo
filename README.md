@@ -21,3 +21,23 @@ Uma aplicação frontend desenvolvida para consolidar conceitos fundamentais do 
 1. Clone este repositório para a sua máquina local:
    ```bash
    git clone [https://github.com/SEU_USUARIO/cartao-interativo.git](https://github.com/SEU_USUARIO/cartao-interativo.git)
+
+
+Acesse a pasta do projeto:
+
+Bash
+cd cartao-interativo
+Instale as dependências necessárias:
+
+Bash
+npm install
+Inicie o servidor de desenvolvimento:
+
+Bash
+npm run dev
+Abra o navegador no endereço indicado no terminal (geralmente http://localhost:5173).
+
+👨‍💻 Autor
+Harry Rocha Taveiros
+
+GitHub
